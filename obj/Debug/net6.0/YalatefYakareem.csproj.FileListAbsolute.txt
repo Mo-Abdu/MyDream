@@ -1,0 +1,15 @@
+C:\Users\User\source\repos\YalatefYakareem\bin\Debug\net6.0\YalatefYakareem.exe
+C:\Users\User\source\repos\YalatefYakareem\bin\Debug\net6.0\YalatefYakareem.deps.json
+C:\Users\User\source\repos\YalatefYakareem\bin\Debug\net6.0\YalatefYakareem.runtimeconfig.json
+C:\Users\User\source\repos\YalatefYakareem\bin\Debug\net6.0\YalatefYakareem.dll
+C:\Users\User\source\repos\YalatefYakareem\bin\Debug\net6.0\YalatefYakareem.pdb
+C:\Users\User\source\repos\YalatefYakareem\obj\Debug\net6.0\YalatefYakareem.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\YalatefYakareem\obj\Debug\net6.0\YalatefYakareem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\YalatefYakareem\obj\Debug\net6.0\YalatefYakareem.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\YalatefYakareem\obj\Debug\net6.0\YalatefYakareem.AssemblyInfo.cs
+C:\Users\User\source\repos\YalatefYakareem\obj\Debug\net6.0\YalatefYakareem.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\YalatefYakareem\obj\Debug\net6.0\YalatefYakareem.dll
+C:\Users\User\source\repos\YalatefYakareem\obj\Debug\net6.0\refint\YalatefYakareem.dll
+C:\Users\User\source\repos\YalatefYakareem\obj\Debug\net6.0\YalatefYakareem.pdb
+C:\Users\User\source\repos\YalatefYakareem\obj\Debug\net6.0\YalatefYakareem.genruntimeconfig.cache
+C:\Users\User\source\repos\YalatefYakareem\obj\Debug\net6.0\ref\YalatefYakareem.dll
